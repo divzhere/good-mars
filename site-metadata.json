@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Fjord Theme",
+  "title": "Divyum",
   "palette": "yellow",
   "header": {
     "title": "Divz",
@@ -13,8 +13,8 @@
     "content": "&copy; All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Powered by JAMstack",
+        "url": "",
         "new_window": true
       }
     ]
