@@ -1,34 +1,28 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "icon": "fa-twitter",
-            "url": "https://twitter.com/"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "icon": "fa-instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "github",
-            "title": "GitHub",
-            "icon": "fa-github",
-            "url": "https://github.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "icon": "fa-linkedin",
-            "url": "https://www.linkedin.com/"
-        },
-        {
-            "type": "devto",
-            "title": "DEV",
-            "icon": "fa-dev",
-            "url": "https://dev.to/"
-        }
-    ]
+  "links": [
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/divz7777"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/divz_here/"
+    },
+    {
+      "type": "github",
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/divzhere"
+    },
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/divyum-bhumra-48718b102/"
+    }
+  ]
 }
