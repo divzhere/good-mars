@@ -5,7 +5,7 @@
     "title": "Divz",
     "tagline": "Minimal and clean blog theme",
     "logo_img": "images/logo.png",
-    "bg_img": "images/header-bg.jpg",
+    "bg_img": "/images/3.jpg",
     "has_nav": true,
     "has_social": true
   },
