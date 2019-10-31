@@ -23,7 +23,7 @@ As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan"
 
 
 
-Twelve species belong to the monophyletic group of Vulpes genus of **"true foxes"**. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of bat-eared fox, gray fox, and island fox. Foxes are found on every continent except Antarctica. By far the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies. 
+monophyletic group of Vulpes genus of **"true foxes"**. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of bat-eared fox, gray fox, and island fox. Foxes are found on every continent except Antarctica. By far the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies. 
 
 > The fox changes his fur but not his habits.
 
